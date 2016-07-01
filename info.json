@@ -1,9 +1,10 @@
 {
-  "name": "gravestone-mod",
-  "version": "1.3.1",
-  "title": "Hazzard's Gravestone Mod",
-  "author": "Hazzard",
-  "contact": "http://www.factorioforums.com/forum/memberlist.php?mode=viewprofile&u=8744",
-  "homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=92&t=14107",
-  "description": "Mod that adds a gravestone that will hold a player's items on death."
+  "name": "gravestones",
+  "version": "1.4.0",
+  "factorio_version": "0.13",
+  "title": "Hazzard's Gravestones",
+  "author": "Hazzard (maintained by jakimfett)",
+  "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=8744",
+  "homepage": "https://forums.factorio.com/viewtopic.php?f=92&t=14107",
+  "description": "Adds a gravestone that saves hold a player's items on death."
 }
