@@ -1,3 +1,5 @@
+require "config"
+
 data:extend({
   {
     type = "container",

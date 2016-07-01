@@ -1,10 +1,11 @@
 require "util"
 require "defines"
+require "config"
 
 --[[ Made by Hazzard & BiG_MEECH ]]--
 -- GPLv2 --
 
-game.on_event(defines.events.on_entity_died, function(event)
+script.on_event(defines.events.on_entity_died, function(event)
   local entity = event.entity
   if entity.type ~= "player" then return end
 
@@ -14,6 +15,9 @@ game.on_event(defines.events.on_entity_died, function(event)
 
   local grave = entity.surface.create_entity{
     name="gravestone", position=pos, force=entity.force}
+  if protective_mode then
+	grave.destructible = false
+  end
   local grave_inv = grave.get_inventory(defines.inventory.chest)
 
   local count = 0
