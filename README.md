@@ -12,7 +12,7 @@ WARNING: There seems to be a bug in 0.12 (maybe earlier) where the game will cra
 Do not try to open any inventories (including chests, gravestones, machines, trains, etc) while dead.
 This mod only works in multiplayer because the game is reset in singleplayer. I do not know if it is possible for mods to change that.
 
-![](https://raw.githubusercontent.com/jakimfett/gravestones/master/graphics/gravestones.png)
+![](https://raw.githubusercontent.com/jakimfett/gravestones/master/graphics/screenshot.png)
 
 ## Disclaimer
 I (jakimfett) didn't create this mod, [Hazzard](https://forums.factorio.com/memberlist.php?mode=viewprofile&u=8744) did.
