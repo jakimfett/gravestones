@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/jakimfett/gravestones/master/graphics/gravestone.png) [![Build Status](https://jenkins.jakimfett.com/buildStatus/icon?job=gravestones)](https://jenkins.jakimfett.com/view/Factorio/job/gravestones/)
 # gravestones
 A continuation of [Hazzard's Gravestone Mod](https://forums.factorio.com/viewtopic.php?f=92&t=14107) for Factorio.
 
@@ -18,5 +19,7 @@ I (jakimfett) didn't create this mod, [Hazzard](https://forums.factorio.com/memb
 Hazzard, if you come back to modding, I'll happily transfer everything over to you.
 
 Licensed under the [GNU GPLv2](https://github.com/jakimfett/gravestones/blob/master/LICENSE).
+
+Bleeding edge builds can be obtained from [Jenkins](https://jenkins.jakimfett.com/view/Factorio/job/gravestones/), but may be horribly broken and/or corrupt your world.
 
 ![](https://raw.githubusercontent.com/jakimfett/gravestones/master/gravestones.png)
