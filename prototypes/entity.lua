@@ -25,9 +25,9 @@ data:extend({
     picture = {
       filename = "__gravestones__/graphics/gravestone.png",
       priority = "high",
-      width = 96,
+      width = 48,
       height = 34,
-      shift = {0.3, 0.2}
+      shift = {0.3, -0.1}
     },
     order = "a[items]-d[gravestone]"
   }
