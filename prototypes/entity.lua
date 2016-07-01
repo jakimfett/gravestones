@@ -4,7 +4,7 @@ data:extend({
   {
     type = "container",
     name = "gravestone",
-    icon = "__gravestone-mod__/graphics/gravestone.png",
+    icon = "__gravestones__/graphics/gravestone.png",
     flags = {"placeable-neutral"},
     minable = {mining_time = 1},
     max_health = 120,
@@ -23,7 +23,7 @@ data:extend({
     inventory_size = 89,
     vehicle_impact_sound =  { filename = "__base__/sound/car-stone-impact.ogg", volume = 0.65 },
     picture = {
-      filename = "__gravestone-mod__/graphics/gravestone.png",
+      filename = "__gravestones__/graphics/gravestone.png",
       priority = "high",
       width = 96,
       height = 34,
