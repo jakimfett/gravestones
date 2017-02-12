@@ -32,4 +32,4 @@ cd $CURRENTDIRECTORY
 git checkout -- info.json
 
 
-cp "build/${MODBASENAME}_${CURRENTVERSION}.zip" ~/bin/factorio/mods/
+cp "build/${MODBASENAME}_${CURRENTVERSION}.zip" $FACTORIOBASEDIR/mods/
